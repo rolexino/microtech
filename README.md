@@ -1,2 +1,2 @@
-# microtech
-Coursera course
+# microtech Home
+First Coursera course training in progress
